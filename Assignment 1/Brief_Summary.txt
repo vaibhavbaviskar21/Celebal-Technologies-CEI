@@ -1,0 +1,17 @@
+CELEBAL TECHNOLOGIES - CEI DATA ENGINEERING 
+
+ASSIGNMENT NO 1 :-
+
+1. Loaded the shopping dataset into a Pandas DataFrame.
+	got the shoping dataset from Kaggle and from it shirts data was taken
+2. Explored the dataset using head(), tail(), shape, columns, data types, info(), and describe().
+3. Identified and handled missing values by filling and dropping where appropriate.
+4. Performed basic operations such as selecting columns and filtering rows.
+5. Removed duplicate records.
+6. Created a derived column `total_amount` using:
+   total_amount = final_price × quantity
+
+7. Saved the cleaned dataset as cleaned_shopping_dataset.csv.
+
+Result:
+The dataset was successfully cleaned, transformed, and exported for further analysis.
